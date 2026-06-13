@@ -12,7 +12,4 @@ Become an Agentic AI Engineer in 90 days.
 - Automation
 
 ## Projects
-- PDF Chatbot
-- AI IT Operations Assistant
-- Multi-Agent System
-- Workflow Automation Platform
+- Smart File Organizer Agent
